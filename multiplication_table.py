@@ -9,6 +9,7 @@ for i in range (1,11):
     for j in range (1,11):
 
 # find the product to show the multiplication table
-        print ("multiplication table")
-        
+        product = (i * j)
+        print (product, end=" ")
+
 # print in another line
